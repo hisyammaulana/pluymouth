@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=WiyataOS
+Description=Linux for Study
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/plugin
+ScriptFile=/usr/share/plymouth/themes/plugin/wiyata.script
